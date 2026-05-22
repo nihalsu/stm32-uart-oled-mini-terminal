@@ -1,0 +1,9 @@
+../Core/Src/main.c:78:6:Refresh_All_Screens	6
+../Core/Src/main.c:102:6:Move_Last_Word_To_Next_Line	5
+../Core/Src/main.c:131:5:main	2
+../Core/Src/main.c:187:6:SystemClock_Config	3
+../Core/Src/main.c:234:13:MX_I2C2_Init	2
+../Core/Src/main.c:268:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:301:13:MX_GPIO_Init	1
+../Core/Src/main.c:319:6:HAL_UART_RxCpltCallback	25
+../Core/Src/main.c:408:6:Error_Handler	1

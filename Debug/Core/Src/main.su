@@ -1,0 +1,9 @@
+../Core/Src/main.c:78:6:Refresh_All_Screens	40	static
+../Core/Src/main.c:102:6:Move_Last_Word_To_Next_Line	32	static
+../Core/Src/main.c:131:5:main	8	static
+../Core/Src/main.c:187:6:SystemClock_Config	88	static
+../Core/Src/main.c:234:13:MX_I2C2_Init	8	static
+../Core/Src/main.c:268:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:301:13:MX_GPIO_Init	24	static
+../Core/Src/main.c:319:6:HAL_UART_RxCpltCallback	32	static
+../Core/Src/main.c:408:6:Error_Handler	4	static,ignoring_inline_asm

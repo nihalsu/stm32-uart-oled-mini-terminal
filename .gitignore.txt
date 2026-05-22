@@ -1,0 +1,30 @@
+# ==========================================
+# STM32CubeIDE / Eclipse Derleme Çıktıları
+# ==========================================
+Debug/
+Release/
+bin/
+obj/
+
+# Derleyici tarafından üretilen geçici dosyalar
+*.o
+*.su
+*.d
+*.crf
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+
+# ==========================================
+# STM32CubeMX / IDE Tarafından Üretilen Loglar
+# ==========================================
+*.log
+*.mxproject
+
+# ==========================================
+# İşletim Sistemi ve Genel Temizlik
+# ==========================================
+.DS_Store
+Thumbs.db
