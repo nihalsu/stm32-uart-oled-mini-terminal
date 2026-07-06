@@ -3,7 +3,7 @@
 This project features a real-time, dual-display terminal system. It captures serial input via UART and simultaneously displays the content on both a computer terminal (e.g., Tera Term) and a physical SSD1306 OLED display, including advanced text-wrapping and scrolling functionality.
 
 ## Project Overview
-![Terminal & OLED Sync](assets/dual_display_view.png)
+![Terminal & OLED Sync](dual_display_view.png)
 
 ## Features
 - **Dual Output:** Synchronized text rendering on both OLED display and serial monitor.
